@@ -120,6 +120,13 @@ Figuras en `reports/figures/`: `residuals_vs_predicted.png`,
 
 ## Reproducción
 
+**1. Datos.** Los archivos originales no se incluyen en el repositorio. Descárgalos
+de la competición "House Prices: Advanced Regression Techniques" de Kaggle
+(`train.csv`, `test.csv`, `sample_submission.csv` y `data_description.txt`) y
+colócalos en `data/raw/`.
+
+**2. Ejecución** (desde PowerShell, con el entorno virtual en `.venv`):
+
 ```powershell
 cd 'C:\Users\emanu\OneDrive\Documentos\Proyectos\ames-housing-prediction'
 .\.venv\Scripts\Activate.ps1
