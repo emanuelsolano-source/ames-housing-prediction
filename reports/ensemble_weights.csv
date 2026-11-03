@@ -1,0 +1,6 @@
+model,weight
+LinearRegression,0.0
+Ridge,0.14034429536277945
+Lasso,0.5102642593225618
+RandomForest,0.0
+XGBoost,0.3493914453146587

@@ -1,0 +1,16 @@
+# Entorno virtual local
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Datos: los originales de Kaggle no se redistribuyen; se descargan de nuevo
+data/raw/
+data/processed/
+
+# Archivos del editor y del sistema
+.vscode/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
